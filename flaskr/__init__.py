@@ -33,7 +33,7 @@ def create_app(test_config=None):
     db.init_app(app)
 
     from . import auth
-    app.register_blueprint(auth.bp)
+    app.register_blueprint(auth.bp)#si no pongo esto no aparece el blueprint 
 
     from . import blog
     app.register_blueprint(blog.bp)
