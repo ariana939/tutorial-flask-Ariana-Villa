@@ -34,3 +34,13 @@ div no pone niguno(for esta vacio, no hay nada que mostrar)
 si hay uno solo post 
 base copia, reemplazo
 >
+04/06
+explico la pagina de git y los cuadros del archivo
+tutorial flask:
+un protocolo dns, ruta  
+200 todo bien
+302 una reedireccion
+304 no modifcado css no modificado
+404 no encontrado, algo esta mal
+500 algo mal en el servidor 
+
